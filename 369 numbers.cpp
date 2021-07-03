@@ -6,7 +6,6 @@
 #include<string>
 using namespace std;
 
-
 int main()
 {
     int a, b; int count = 0;
@@ -32,6 +31,5 @@ int main()
         A.clear();
     }
     cout <<count;
-
     return 0;
 }
